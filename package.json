@@ -1,0 +1,9 @@
+{
+  "name": "dancewithaiswarya",
+  "version": "1.0.0",
+  "description": "Dance class website using Tailwind CSS",
+  "scripts": {},
+  "keywords": ["dance", "tailwind", "website"],
+  "author": "Aiswarya",
+  "license": "MIT"
+}
